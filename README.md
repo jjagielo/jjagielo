@@ -6,7 +6,7 @@ This is a collection of code I have done through classes, projects, or personal 
 
 To learn more about my academic and professional journey, please reach out to me here: https://www.linkedin.com/in/jason-jagielo/
 
-Please also checkout my website for a more in depth portfolio: https://jjagielo2021.wixsite.com/jasonjagielo
+Please also checkout my website for a more in-depth portfolio: https://jjagielo2021.wixsite.com/jasonjagielo
 
 
 ## ⚡**My Technical Knowledge and Growth**⚡
