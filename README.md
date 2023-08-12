@@ -9,7 +9,7 @@ To learn more about my academic and professional journey, please reach out to me
 Please also checkout my website for a more in-depth portfolio: https://jjagielo2021.wixsite.com/jasonjagielo
 
 
-## ⚡**My Technical Knowledge and Growth**⚡
+## **My Technical Knowledge and Growth**
 
 ### My publications ...
 - MECO 2023 -> [Paper/DOI](https://ieeexplore.ieee.org/document/10155001)
