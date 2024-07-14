@@ -1,6 +1,6 @@
 ## **Welcome**
 
-My name is Jason Jagielo and I am a current Third Year Computer Engineering Major at the Georgia Institute of Technology. My concentrations are in Cybersecurity and Systems & Architecture.
+My name is Jason Jagielo and I am a current Fourth Year Computer Engineering Major at the Georgia Institute of Technology. My concentrations are in Cybersecurity and Systems & Architecture. I have interested in ASIC/FPGA Engineering, Embedded Systems, and Reverse Engineering.
 
 For resume inquires, please contact me at jjagielo3@gatech.edu.
 
