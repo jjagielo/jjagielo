@@ -1,8 +1,8 @@
 ## **Welcome**
 
-My name is Jason Jagielo and I am a current Fourth Year Computer Engineering Major at the Georgia Institute of Technology. My concentrations are in Cybersecurity and Systems & Architecture. I have interested in ASIC/FPGA Engineering, Embedded Systems, and Reverse Engineering.
+My name is Jason Jagielo - BS Computer Engineering from Georgia Tech (May 2025), MS Electrical & Computer Engineering from Carnegie Mellon University (Expected: December 2026).
 
-For resume inquires, please contact me at jjagielo3@gatech.edu.
+For inquires, please contact me at jagielojason@gmail.com.
 
 <!--
 **jjagielo/jjagielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
